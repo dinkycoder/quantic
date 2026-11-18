@@ -10,4 +10,6 @@ This is the requirements package for Lily's Florist, an established flower shop 
 
 Figma file with all seven annotated screens: https://www.figma.com/design/afFLPyuekLNFi89tYivkoC
 
-Status: draft. Still to do: add the ChatGPT share link to the interview, and replace the screen images with final 2x exports from Figma, including screen 7.
+Interview with Lily the Florist: https://chatgpt.com/share/6afd68f1-a848-83e9-955a-a16a6a6fdbc6
+
+Status: draft. Still to do: replace the screen images with final 2x exports from Figma, including screen 7.
