@@ -12,4 +12,6 @@ Figma file with all seven annotated screens: https://www.figma.com/design/afFLPy
 
 Interview with Lily the Florist: https://chatgpt.com/share/6afd68f1-a848-83e9-955a-a16a6a6fdbc6
 
+Flower photos in screens 1, 2 and 4 are AI-generated (Figma AI) and were placed into the exported screen images; the Figma file still shows gray placeholders until they are placed there too.
+
 Status: draft. Still to do: replace the screen images with final 2x exports from Figma, including screen 7.
